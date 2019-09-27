@@ -10,15 +10,15 @@ The workshop series is designed with a focus on the practical aspects of machine
 
 Session 1: Setup: Python and Github
 guided: 
-    - Installing software: python, jupyter, git
-    - Navigation and other basic commands in the terminal
-    - Working with the p-ai-org github
-    - Python: 
-        - variables
-        - data structures (numbers, lists, strings)
-        - control flow (if, while, for)
-        - functions
-        - importing packages
+- Installing software: python, jupyter, git
+- Navigation and other basic commands in the terminal
+- Working with the p-ai-org github
+- Python: 
+    - variables
+    - data structures (numbers, lists, strings)
+    - control flow (if, while, for)
+    - functions
+    - importing packages
 hands-on: 
     - no exercises this week!
 
