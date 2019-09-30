@@ -22,7 +22,7 @@ guided:
 hands-on: 
     - no exercises this week!
 
-Session 2: Data analysis: numpy and pandas
+Session 2: Data analysis: numpy and pandas (tentative topic list! probably to be reduced)
 - Pandas dataframes as the data structure for datasets
 - Converting csv files to dataframes
 - Slicing and indexing dataframes using conditionals as well as iloc and loc methods.
@@ -38,7 +38,7 @@ Session 2: Data analysis: numpy and pandas
 - Concatentating and merging dataframes
 - More operations such as sorting the rows, creating a dataframe from the scratch, etc.
 
-Session 3: Model Building, Tuning and Validation using Scikit-learn 
+Session 3: Model Building, Tuning and Validation using Scikit-learn  (tentative topic list! definitely to be reduced)
 - Overfitting and underfitting of models
 - Regression algorithms
     - Linear Regression
