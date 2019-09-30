@@ -9,7 +9,7 @@ The workshop series is designed with a focus on the practical aspects of machine
 ### Topics covered in the guided sessions and hands-on exercises:  
 
 Session 1: Setup: Python and Github
-guided: 
+
 - Installing software: python, jupyter, git
 - Navigation and other basic commands in the terminal
 - Working with the p-ai-org github
@@ -19,8 +19,6 @@ guided:
     - control flow (if, while, for)
     - functions
     - importing packages
-hands-on: 
-    - no exercises this week!
 
 Session 2: Data analysis: numpy and pandas (tentative topic list! probably to be reduced)
 - Pandas dataframes as the data structure for datasets
